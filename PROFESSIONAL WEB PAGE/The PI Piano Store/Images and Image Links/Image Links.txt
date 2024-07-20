@@ -1,0 +1,10 @@
+                <img src="https//shop.sg.yamaha.com/media/catalog/product/c/l/clp-865gp_front_1_1.png?optimize=high&fit=bounds&height=700&width=700&canvas=700:700&format=jpeg">
+                <img src="https://shop.sg.yamaha.com/media/catalog/product/c/l/clp-845wh_front_1.png?optimize=high&fit=bounds&height=700&width=700&canvas=700:700&format=jpeg">
+                <img src="https://shop.sg.yamaha.com/media/catalog/product/b/o/bosendorfer_dragonfly_200.png?optimize=high&fit=bounds&height=700&width=700&canvas=700:700&format=jpeg">
+                <img src="https://shop.sg.yamaha.com/media/catalog/product/g/e/genos2_set_front2_1.png?optimize=high&fit=bounds&height=700&width=700&canvas=700:700&format=jpeg">
+                <img src="https://shop.sg.yamaha.com/media/catalog/product/e/l/els02_129320_2400_front.jpg?optimize=high&fit=bounds&height=700&width=700&canvas=700:700">
+                <img src="https://shop.sg.yamaha.com/media/catalog/product/c/p/cp88_142492_2400_left.jpg?optimize=high&fit=bounds&height=700&width=700&canvas=700:700">
+                <img src="https://shop.sg.yamaha.com/media/catalog/product/m/8/m8x_side_angled_left.png?optimize=high&fit=bounds&height=&width=&canvas=:&format=jpeg">
+                <img src="https://shop.sg.yamaha.com/media/catalog/product/d/g/dgx-670b_145846_2400_front2_1_2.jpg?optimize=high&fit=bounds&height=&width=&canvas=:">
+                <img src="https://shop.sg.yamaha.com/media/catalog/product/m/o/modx8__147643_2400_left.jpg?optimize=high&fit=bounds&height=700&width=700&canvas=700:700">
+                <img src="https://asia-latinamerica-mea.yamaha.com/en/files/5B9A7213C858446B97420C749DB1D8F3_12073_360f03b28ee93b1e1cc246e5490d0fc5.jpg?impolicy=resize&imwid=735&imhei=735">
